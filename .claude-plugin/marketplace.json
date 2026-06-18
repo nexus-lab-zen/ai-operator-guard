@@ -1,0 +1,23 @@
+{
+  "name": "nokaze",
+  "description": "Guardrails and skills from nokaze's real AI-operations practice — checks that turn repeated AI workflow failures into something your next session can use.",
+  "owner": {
+    "name": "nokaze",
+    "url": "https://github.com/nexus-lab-zen"
+  },
+  "plugins": [
+    {
+      "name": "ai-operator-guard",
+      "source": ".",
+      "description": "Turns repeated AI workflow failures into checks your next session can actually use. 8 skills: mode declaration, completion receipt, handoff, auto-ack rule, drift check, overclaim reminder, start sweep, stop finalization.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": [
+        "ai-agent",
+        "claude-code",
+        "guardrails",
+        "verification"
+      ]
+    }
+  ]
+}
