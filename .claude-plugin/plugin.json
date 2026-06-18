@@ -1,0 +1,20 @@
+{
+  "name": "ai-operator-guard",
+  "version": "0.1.0",
+  "description": "Turns repeated AI workflow failures — false \"done\" claims, lost session state, silent automation failures — into checks your next session can actually use. 8 skills from nokaze's real AI-operations practice.",
+  "author": {
+    "name": "nokaze",
+    "url": "https://github.com/nexus-lab-zen"
+  },
+  "homepage": "https://github.com/nexus-lab-zen/ai-operator-guard",
+  "repository": "https://github.com/nexus-lab-zen/ai-operator-guard",
+  "license": "MIT",
+  "keywords": [
+    "ai-agent",
+    "claude-code",
+    "guardrails",
+    "verification",
+    "workflow",
+    "session-handoff"
+  ]
+}
